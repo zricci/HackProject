@@ -1,89 +1,15 @@
 {
   "UPSLoc": [
     {
-      {
-   "Name" : "Parsippany",
-   "Address" : "799 Jefferson Rd",
-   "City" : "Parsippany",
-   "State" : "NJ",
-   "Zip Code" : 7054
- },
- {
-   "Name" : "Meadowlands",
-   "Address" : "493 County Ave",
-   "City" : "Secaucus",
-   "State" : "NJ",
-   "Zip Code" : 7094
- },
- {
-   "Name" : "GOULD AVE",
-   "Address" : "70 GOULD AVE",
-   "City" : "NEWARK",
-   "State" : "NJ",
-   "Zip Code" : 7107
- },
- {
-   "Name" : "SADDLEBROOK",
-   "Address" : "280 N MIDLAND AVE",
-   "City" : "SADDLE BROOK",
-   "State" : "NJ",
-   "Zip Code" : 7663
- },
- {
-   "Name" : "Mount Olive",
-   "Address" : "303 Waterloo Valley Rd ",
-   "City" : "Budd Lake",
-   "State" : "NJ",
-   "Zip Code" : 7828
- },
- {
-   "Name" : "Edison",
-   "Address" : "1 CLOVER PLACE",
-   "City" : "EDISON",
-   "State" : "NJ",
-   "Zip Code" : 8817
- },
- {
-   "Name" : "Manhattan South",
-   "Address" : "522 Greenwich St",
-   "City" : "New York",
-   "State" : "NY",
-   "Zip Code" : 10013
- },
- {
-   "Name" : "43rd Street",
-   "Address" : "601 W 43rd Street",
-   "City" : "New York",
-   "State" : "NY",
-   "Zip Code" : 10036
- },
- {
-   "Name" : "Chester",
-   "Address" : "1 Black Meadow Rd",
-   "City" : "Chester",
-   "State" : "NY",
-   "Zip Code" : 10918
- },
- {
-   "Name" : "New Windsor",
-   "Address" : "139 Wembly Rd",
-   "City" : "New Windsor",
-   "State" : "NY",
-   "Zip Code" : 12553
- },
- {
-   "Name" : "Liberty",
-   "Address" : "20 Queen Mountain Rd",
-   "City" : "Ferndale",
-   "State" : "NY",
-   "Zip Code" : 12734
- }
+      "Name" : "Parsippany",
+      "Address" : "799 Jefferson Rd",
+      "City" : "Parsippany",
+      "State" : "NJ",
+      "Zip Code" : 7054
     }
   ],
   "profile": {
     "name": "typicode"
   }
 }
-
-
 
